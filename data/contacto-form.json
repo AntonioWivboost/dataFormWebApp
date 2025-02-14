@@ -1,7 +1,10 @@
-{
-  "timestamp": "2025-02-14T16:14:50.036Z",
-  "nombre": "Alejandro",
-  "email": "ale@gmail.com",
-  "telefono": "5548484848",
-  "mensaje": "Hola me gustaria que trabajaramos juntos en una web"
-}
+[
+  {
+    "nombre": "val",
+    "email": "val@gmail.com",
+    "telefono": "5548484848",
+    "mensaje": "Hola soy Val y estoy mamadisima",
+    "timestamp": "2025-02-14T16:18:41.104Z",
+    "id": "40ae853d-30b9-4af6-b648-d7e0c84903d7"
+  }
+]

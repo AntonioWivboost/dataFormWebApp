@@ -38,5 +38,13 @@
     "mensaje": "Hola soy yo",
     "timestamp": "2025-02-14T17:54:04.531Z",
     "id": "bc539a91-dda6-4828-b0ff-53c13c4718d8"
+  },
+  {
+    "nombre": "Jose",
+    "email": "jose@gmail.com",
+    "telefono": "5548484848",
+    "mensaje": "test local",
+    "timestamp": "2025-02-27T20:09:25.681Z",
+    "id": "eff8eee5-3b6d-4422-b6e5-14ba8810525b"
   }
 ]
